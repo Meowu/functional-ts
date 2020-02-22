@@ -1,5 +1,3 @@
-
-export const greet = (name?: string) => {
-  name = name || 'World'
-  return `Hello, ${name}`
-}
+export * from './cons';
+export * from './car';
+export * from './cdr';
