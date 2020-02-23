@@ -5,3 +5,4 @@ export * from './add1';
 export * from './sub1';
 export * from './add';
 export * from './sub';
+export * from './multiple';
