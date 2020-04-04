@@ -6,3 +6,4 @@ export * from './sub1';
 export * from './add';
 export * from './sub';
 export * from './multiple';
+export * from './multiremberCo';
